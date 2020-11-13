@@ -7,3 +7,5 @@ topicos a ser trabalhados:
 
 1-Git
 2-Virtualnev
+
+oi
